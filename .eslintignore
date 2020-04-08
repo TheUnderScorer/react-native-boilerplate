@@ -1,0 +1,7 @@
+node_modules
+coverage
+**/build
+**/*.d.ts
+babel.config.js
+index.js
+metro.config.js
